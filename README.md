@@ -19,6 +19,7 @@ This is the place where I open source stuff and break things :boom:
 ![Istio](https://img.shields.io/static/v1?logo=istio&label=&message=istio&color=36465D&logoColor=AAA&style=flat-square)
 ![Helm](https://img.shields.io/static/v1?logo=helm&label=&message=helm&color=36465D&logoColor=AAA&style=flat-square)
 ![ArgoCD](https://img.shields.io/static/v1?logo=argo%20CD&label=&message=argo%20CD&color=36465D&logoColor=AAA&style=flat-square)
+![Terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=36465D&logoColor=AAA&style=flat-square)
 
 ![Tooling](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=36465D&logoColor=AAA&style=flat-square)
