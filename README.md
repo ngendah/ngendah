@@ -11,7 +11,6 @@ This is the place where I open source stuff and break things :boom:
 ![C++](https://img.shields.io/static/v1?logo=c%2B%2B&label=&message=c%2B%2B&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![Dart](https://img.shields.io/static/v1?logo=dart&label=&message=dart&color=36465D&logoColor=AAA&style=flat-square)
 ![Kotlin](https://img.shields.io/static/v1?logo=kotlin&label=&message=kotlin&color=36465D&logoColor=AAA&style=flat-square&link=)
-![Golang](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
 
 ![Ops](https://img.shields.io/static/v1?label=&message=ops:&color=111&style=flat-square)
 ![Kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
