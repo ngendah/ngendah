@@ -9,7 +9,7 @@ This is the place where I open source stuff and break things :boom:
 ![Ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
 ![C](https://img.shields.io/static/v1?logo=C&label=&message=C&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![C++](https://img.shields.io/static/v1?logo=c%2B%2B&label=&message=c%2B%2B&color=36465D&logoColor=AAA&style=flat-square&link=)
-![Go](https://img.shields.io/static/v1?logo=golang&label=&message=golangt&color=36465D&logoColor=AAA&style=flat-square)
+![Go](https://img.shields.io/static/v1?logo=golang&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
 
 ![Ops](https://img.shields.io/static/v1?label=&message=ops:&color=111&style=flat-square)
 ![Kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=36465D&logoColor=AAA&style=flat-square)
