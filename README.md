@@ -22,7 +22,3 @@ This is the place where I open source stuff and break things :boom:
 ![Linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=36465D&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=neovim&label=&message=neovim&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-
-----
-<img src="./blobs/octocat.png" alt="ngendah" width="200" height="200">
-
