@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Ng'enda! Henry
 
-I am an engineering leader who loves working with teams to building amazing products that create a positive and lasting impact.
- 
-- 💬 Ask me about: Cloud Computing, Site Reliability Engineering, DevOps, Software development, engineering management, etc
-  - Over my career as a sofware engineer I have coded in Python, Dart, bash, C, C++, javascript, typescript
-- ✍️ I like sharing what I have learnt on [Random Variables](https://ngendah.github.io/)
+👋 Hi there! I'm a **technical leader and software engineer** who enjoys **building amazing products** while **empowering teams** to do their best work.
+
+💬 **Ask me about:** Cloud Computing ☁️, Site Reliability Engineering 🔧, DevOps 🚀, Software Development 💻, and Engineering Management 🧭
+
+👨‍💻 Throughout my journey as a software engineer, I've worked with:
+- **Languages:** Python, Dart, Bash, C, C++, JavaScript, TypeScript
+
+✍️ I enjoy sharing what I learn on [Random Variables](https://ngendah.github.io/) — feel free to check it out!
 
 Posts on [Random Variables](https://ngendah.github.io/)
 
@@ -25,7 +28,7 @@ Posts on [Random Variables](https://ngendah.github.io/)
 - Computational Graph ([Part-I](https://ngendah.github.io/posts/computational-graph-1/), [Part-II](https://ngendah.github.io/posts/computational-graph-2/), [Part-III](https://ngendah.github.io/posts/computation-graph-3/))
 - [Parametric Circle](https://ngendah.github.io/posts/parametric-circle/)
 
-Here at Github, is where I open source stuff and break things :boom:
+📍 GitHub is where I explore ideas, open source tools, and (sometimes) break things 💥
 
 ----
 
