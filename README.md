@@ -17,9 +17,15 @@ I am an engineering leader who loves working with teams to building amazing prod
  
 - 💬 Ask me about: Cloud Computing, Site Reliability Engineering, DevOps, Software development, engineering management, etc
   - Over my career as a sofware engineer I have coded in Python, Dart, bash, C, C++, javascript, typescript
-- ✍️ I like sharing what I learn on [Random Variables](https://ngendah.github.io/)
+- ✍️ I like sharing what I have learnt on [Random Variables](https://ngendah.github.io/)
 
-This is the place where I open source stuff and break things :boom:
+Posts on [Random Variables](https://ngendah.github.io/)
+
+- Back Propagation with Matrix Derivatives ( [Part-I](https://ngendah.github.io/posts/backprop-with-matrix-derivatives-1/), [Part-II](https://ngendah.github.io/posts/backprop-with-matrix-derivatives-2/))
+- Computational Graph ([Part-I](https://ngendah.github.io/posts/computational-graph-1/), [Part-II](https://ngendah.github.io/posts/computational-graph-2/), [Part-III](https://ngendah.github.io/posts/computation-graph-3/))
+- [Parametric Circle](https://ngendah.github.io/posts/parametric-circle/)
+
+Here at Github, is where I open source stuff and break things :boom:
 
 ----
 
@@ -45,5 +51,6 @@ This is the place where I open source stuff and break things :boom:
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 
 ----
+
 <img src="./blobs/octocat.png" alt="ngendah" width="200" height="200">
 

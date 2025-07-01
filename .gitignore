@@ -1,0 +1,9 @@
+*.iml
+.idea/
+out/
+target/
+*.log
+local.properties
+*.sqlite
+*.iws
+*.ipr
