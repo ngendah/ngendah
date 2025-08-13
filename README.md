@@ -11,14 +11,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm Ng'enda! Henry
+### Hi there 👋, I'm Ng'enda Henry
 
-👋 Hi there! I'm a **technical leader and software engineer** who enjoys **building amazing products** while **empowering teams** to do their best work.
+I am  a **software engineer and technical leader** who enjoys **building amazing and meaningful products** that improve everyday life while **empowering teams** to deliver their best work.
 
-💬 **Ask me about:** Cloud Computing ☁️, Site Reliability Engineering 🔧, DevOps 🚀, Software Development 💻, and Engineering Management 🧭
+💬 **Ask me about:** Software Development 💻, Cloud Computing ☁️, Site Reliability Engineering 🔧, DevOps 🚀, and Engineering Management 🧭
 
 👨‍💻 Throughout my journey as a software engineer, I've worked with:
-- **Languages:** Python, Dart, Bash, C, C++, JavaScript, TypeScript
+
+- **Languages:** JavaScript, TypeScript, Python, Dart, Bash, C, C++
 
 ✍️ I enjoy sharing what I learn on [Random Variables](https://ngendah.github.io/) — feel free to check it out!
 
@@ -29,6 +30,8 @@ Posts on [Random Variables](https://ngendah.github.io/)
 - [Parametric Circle](https://ngendah.github.io/posts/parametric-circle/)
 
 📍 GitHub is where I explore ideas, open source tools, and (sometimes) break things 💥
+
+📫 You can reach me at: [Ngendah](mailto:ngendah@pm.me)
 
 ----
 
@@ -55,5 +58,6 @@ Posts on [Random Variables](https://ngendah.github.io/)
 
 ----
 
-<img src="./blobs/octocat.png" alt="ngendah" width="200" height="200">
-
+<!--
+  <img src="./blobs/octocat.png" alt="ngendah" width="200" height="200">
+-->
