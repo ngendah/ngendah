@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Ng'enda Henry
 
-I am  a **software engineer and technical leader** who enjoys **building amazing and meaningful products** that improve everyday life while **empowering teams** to deliver their best work.
+I am  a **software engineer and technical leader** who enjoys **building amazing and meaningful products** that improve everyday life.
 
 💬 **Ask me about:** Software Development 💻, Cloud Computing ☁️, Site Reliability Engineering 🔧, DevOps 🚀, and Engineering Management 🧭
 
